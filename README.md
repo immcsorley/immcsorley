@@ -1,12 +1,4 @@
-- [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-<!DOCTYPE html>
-<html>
-<style>
-body {
-  font-size: 20px;
-}
-</style>
-<body>
+- [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")]
 
 <span style='font-size:100px;'>&#11088;</span>
 
