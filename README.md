@@ -1,6 +1,6 @@
 <span style='font-size:100px;'>&#11088;</span> Hello I am Isaac McSorley
-- 👀 I’m a business analytics and information systems major at The University of Iowa
-- I am intereested in anything analytics, tech, or machine learning related 
+-I’m a business analytics and information systems major at The University of Iowa
+- I am intereested in anything analytics, tech, or machine learning related!
 - <span style = 'font-size:100px; '>&#128187;</span> <b> Technologies and Tools </b>
   - ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
