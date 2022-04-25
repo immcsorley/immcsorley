@@ -1,5 +1,6 @@
-<span style='font-size:100px;'>&#11088;</span> I am Isaac McSorley
--I’m a business analytics and information systems major at The University of Iowa currently in my senior year.
+<span style='font-size:100px;'>&#11088;</span> 
+- I am Isaac McSorley, I am from Southeast Iowa and currently live in Iowa City, IA
+- I’m a business analytics and information systems major at The University of Iowa currently in my senior year.
 - I am also dual enrolled in the Masters of Science in Business Analytics program.
 - I am intereested in anything analytics, tech, or machine learning related!
 - Check out some of my projects I have been working on!
