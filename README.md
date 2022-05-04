@@ -1,9 +1,12 @@
-<span style='font-size:100px;'>&#11088;</span> 
-- I am Isaac McSorley, I am from Southeast Iowa and currently live in Iowa City, IA
+![](https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-16.gif)
+
+
+- Hello! I am Isaac McSorley, I am from Southeast Iowa and currently live in Iowa City, IA
 - I’m a Business Analytics and Information Systems major at The University of Iowa currently in my senior year.
 - I am also dual enrolled in the Masters of Science in Business Analytics program.
 - I am intereested in anything analytics, tech, or machine learning related!
-- Check out some of my projects I have been working on!
+- Check out some of my projects I have been working on [here](https://github.com/immcsorley?tab=repositories)
+- 
 - <span style = 'font-size:100px; '>&#128187;</span> <b> Technologies and Tools </b>
   - ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -12,8 +15,7 @@
 ![](https://img.shields.io/badge/Tools-OracleBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SalesForce-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-- 📫 How to reach me: isaac-mcsorley@uiowa.edu
-  - You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+- 📫 isaac-mcsorley@uiowa.edu : You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
