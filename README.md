@@ -1,7 +1,7 @@
 ![](https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-16.gif)
 
 
-- Hello! I am Isaac McSorley, I am from Southeast Iowa and currently live in Iowa City, IA
+- Hello Everyone! I am Isaac McSorley. I am from Southeast Iowa and currently live in Iowa City, IA
 - I’m a Business Analytics and Information Systems major at The University of Iowa currently in my senior year.
 - I am also dual enrolled in the Masters of Science in Business Analytics program.
 - I am intereested in anything analytics, tech, or machine learning related!             
