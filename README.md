@@ -27,7 +27,6 @@
 [2]: https://www.linkedin.com/in/isaac-mcsorley-64640a186/
 <br/>
 
-Here are some gifs that pretty much sum me up!
 
 ![](https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/200.gif) ![](https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.gif) ![](https://media1.giphy.com/media/IwAZ6dvvvaTtdI8SD5/200.gif)
 
