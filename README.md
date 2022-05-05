@@ -4,7 +4,7 @@
 - Hello! I am Isaac McSorley, I am from Southeast Iowa and currently live in Iowa City, IA
 - I’m a Business Analytics and Information Systems major at The University of Iowa currently in my senior year.
 - I am also dual enrolled in the Masters of Science in Business Analytics program.
-- I am intereested in anything analytics, tech, or machine learning related!
+- I am intereested in anything analytics, tech, or machine learning related!             
 - Check out some of my projects I have been working on [here](https://github.com/immcsorley?tab=repositories)
 - <span style = 'font-size:100px; '>&#128187;</span> <b> Technologies and Tools </b>
   - ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -26,6 +26,7 @@
 [1]: https://twitter.com/isaacmcsorley
 [2]: https://www.linkedin.com/in/isaac-mcsorley-64640a186/
 
+![](https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/200.gif) ![](https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.gif) ![](https://media1.giphy.com/media/IwAZ6dvvvaTtdI8SD5/200.gif)
 
 
 
