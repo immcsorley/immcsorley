@@ -1,7 +1,8 @@
 ![](https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-16.gif)
 
 
-- Hello Everyone! I am Isaac McSorley. I am from Southeast Iowa and currently live in Iowa City, IA
+## Hello Everyone! 
+- I am Isaac McSorley. I am from Southeast Iowa and currently live in Iowa City, IA
 - I am a Business Analytics and Information Systems major at The University of Iowa currently in my senior year.
 - I am also dual enrolled in the Masters of Science in Business Analytics program graduating in December of 2023.
 - I am interested in anything analytics, tech, or machine learning related!  
@@ -27,7 +28,10 @@
 [1]: https://twitter.com/isaacmcsorley
 [2]: https://www.linkedin.com/in/isaac-mcsorley-64640a186/
 <br/>
-
+## Latest Projects
+- [Microsoft Access Database I built for the University of Iowa College of Nursing](https://github.com/immcsorley/DatabaseProject)
+- [Do Elon Musk's tweets affect Tesla's stock price? R Programming Language Project](https://github.com/immcsorley/ElonProject)
+- [Finding the most optimal flight out of Chicago O Hare Airport. SQL Project](https://github.com/immcsorley/ChicagoO-Hare)
 
 ![](https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/200.gif) ![](https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.gif) ![](https://media1.giphy.com/media/IwAZ6dvvvaTtdI8SD5/200.gif)
 
