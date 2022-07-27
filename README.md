@@ -30,7 +30,7 @@
 <br/>
 ## Latest Projects
 - [Microsoft Access Database I built for the University of Iowa College of Nursing](https://github.com/immcsorley/DatabaseProject)
-- [Do Elon Musk's tweets affect Tesla's stock price? ***R Programming Language Project***](https://github.com/immcsorley/ElonProject)
+- [Do Elon Musk's tweets affect Tesla's stock price? ***R Programming Language / ggplot Project***](https://github.com/immcsorley/ElonProject)
 - [Data Mining Churn Rate Project. ***Data Mining / Machine Learning Project***](https://github.com/immcsorley/ChurnRateProject)
 - [Finding the most optimal flight out of Chicago O Hare Airport. ***SQL Project***](https://github.com/immcsorley/ChicagoO-Hare)
 
