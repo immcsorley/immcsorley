@@ -3,10 +3,9 @@
 
 ## Hello Everyone! 
 - I am Isaac McSorley. I am from Southeast Iowa and currently live in Iowa City, IA
-- I am a Business Analytics and Information Systems major at The University of Iowa currently in my senior year.
-- I am also dual enrolled in the Masters of Science in Business Analytics program graduating in December of 2023.
+- I am a Business Analytics and Information Systems major at The University of Iowa currently in my senior year. I am also pursing a masters degree in the field. 
 - I am interested in anything analytics, tech, or machine learning related! I also love hunting, golfing, and anything outdoors!
-- I have experience in both analytics and in finance. I worked on the product analytics team at HNI Corporation and am currently working on the product finance team at JP Morgan Chase.        
+- I have experience in both analytics and in finance. I worked on the product analytics team at HNI Corporation and am currently working on the product finance team at JP Morgan Chase. I also am a student intern for the college of nursing helping them design and implement a new database during the school year.         
 - Check out some of my projects I have been working on [here](https://github.com/immcsorley?tab=repositories) or view below.
 - <span style = 'font-size:100px; '>&#128187;</span> <b> Technologies and Tools </b>
   - ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
