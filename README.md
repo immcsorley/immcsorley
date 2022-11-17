@@ -1,8 +1,8 @@
 ![](https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-16.gif)
 
 
-## Hello Everyone! 
-- I am Isaac McSorley. I am from Southeast Iowa and currently live in Iowa City, IA
+## Hi 👋, I'm Isaac McSorley
+- I am from Southeast Iowa and currently live in Iowa City, IA
 - I am currently pursuing a Master of Business Analytics degree at the University of Iowa
 - I am interested in anything analytics, tech, machine learning, or data science related! I also love hunting, golfing, and anything outdoors!
 - I have experience in both analytics and in finance. I worked on the product analytics team at HNI Corporation and am currently working on the product finance team at JP Morgan Chase. I also am a student intern for the college of nursing helping them design and implement a new database during the school year.         
@@ -17,6 +17,7 @@
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 - 📫 isaac-mcsorley@uiowa.edu : You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+- 📄 Here is a link to my current[resume](https://github.com/immcsorley/Resume/blob/main/Isaac%20McSorley_Resume.pdf)
 
 <!-- Icons -->
 
