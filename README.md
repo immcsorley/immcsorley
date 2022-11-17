@@ -33,6 +33,7 @@
 - [Do Elon Musk's tweets affect Tesla's stock price? ***R Programming Language / ggplot Project***](https://github.com/immcsorley/ElonProject)
 - [Data Mining Churn Rate Project. ***Data Mining / Machine Learning Project***](https://github.com/immcsorley/ChurnRateProject)
 - [Finding the most optimal flight out of Chicago O Hare Airport. ***SQL Project***](https://github.com/immcsorley/ChicagoO-Hare)
+- [Analyzing Data Science Salaries to find insights into future career paths ***Tableau Project***](https://github.com/immcsorley/DataScienceSalaries)
 
 ![](https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/200.gif) ![](https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.gif) ![](https://media1.giphy.com/media/IwAZ6dvvvaTtdI8SD5/200.gif)
 
