@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 - 📫 isaac-mcsorley@uiowa.edu : You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-- 📄 Here is a link to my current[resume](https://github.com/immcsorley/Resume/blob/main/Isaac%20McSorley_Resume.pdf)
+- 📄 Here is a link to my current [resume](https://github.com/immcsorley/Resume/blob/main/Isaac%20McSorley_Resume.pdf)
 
 <!-- Icons -->
 
