@@ -1,7 +1,7 @@
 ![](https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-16.gif)
 
 
-## Hi 👋, I'm Isaac McSorley
+## Hi 👋 I'm Isaac McSorley
 - I am from Southeast Iowa and currently live in Iowa City, IA
 - I am currently pursuing a Master of Business Analytics degree at the University of Iowa
 - I am interested in anything analytics, tech, machine learning, or data science related! I also love hunting, golfing, and anything outdoors!
