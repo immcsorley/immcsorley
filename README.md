@@ -5,7 +5,7 @@
 - I am from Southeast Iowa and currently live in Iowa City, IA
 - I am currently pursuing a Master of Business Analytics degree at the University of Iowa
 - I am interested in anything analytics, tech, machine learning, or data science related! I also love hunting, golfing, and anything outdoors!
-- I have experience in both analytics and in finance. I worked on the product analytics team at HNI Corporation and am currently working on the product finance team at JP Morgan Chase. I also am a student intern for the college of nursing helping them design and implement a new database during the school year.         
+- I have experience in both analytics and in finance. I worked on the product analytics team at HNI Corporation and also on the product finance team at JP Morgan Chase. I also am a student intern for the college of nursing helping them design and implement a new database during the school year. Finally, I also do research for a startup company, Spartan Forge, which is a mapping software app centered on Artificial Intelligence to assist deer hunters.         
 - Check out some of my projects I have been working on [here](https://github.com/immcsorley?tab=repositories) or view below.
 - <span style = 'font-size:100px; '>&#128187;</span> <b> Technologies and Tools </b>
   - ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
