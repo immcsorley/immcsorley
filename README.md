@@ -2,22 +2,36 @@
 
 
 ## Hi 👋 I'm Isaac McSorley
-- I am from Southeast Iowa and currently live in Iowa City, IA
-- I am currently pursuing a Master of Business Analytics degree at the University of Iowa
-- I am interested in anything analytics, tech, machine learning, or data science related! I also love hunting, golfing, and anything outdoors!
-- I have experience in both analytics and in finance. I worked on the product analytics team at HNI Corporation and also on the product finance team at JP Morgan Chase. I also am a student intern for the college of nursing helping them design and implement a new database during the school year. Finally, I also do research for a startup company, Spartan Forge, which is a mapping software app centered on Artificial Intelligence to assist deer hunters.         
-- Check out some of my projects I have been working on [here](https://github.com/immcsorley?tab=repositories) or view below.
-- <span style = 'font-size:100px; '>&#128187;</span> <b> Technologies and Tools </b>
-  - ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SalesForce-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-- 📫 isaac-mcsorley@uiowa.edu : You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-- 📄 Here is a link to my current [resume](https://github.com/immcsorley/Resume/blob/main/IsaacMcSorley.pdf.pdf)
+- 🌍 I'm from Southeast Iowa and currently live in Iowa City, IA
+- 🎓 I'm pursuing a Master of Business Analytics degree at the University of Iowa
+- 🚀 My interests include analytics, tech, machine learning, and data science! I also love hunting, golfing, and anything outdoors!
+
+### Work Experience
+- 📊 **HNI Corporation** - Product Analytics Team
+- 💼 **JP Morgan Chase** - Product Finance Team
+- 🏫 **University of Iowa College of Nursing** - Student Intern (Designing and implementing a new database)
+- 🚀 **Spartan Forge** - Researcher (AI-based mapping software app for deer hunters)
+
+### Check Out My Projects
+- Visit my repositories [here](https://github.com/immcsorley?tab=repositories) or view them below.
+
+### Technologies and Tools
+![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Excel](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![PowerBI](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![SalesForce](https://img.shields.io/badge/Tools-SalesForce-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Tableau](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+### Connect with Me
+- 📫 Email: isaac-mcsorley@uiowa.edu
+- 🐦 Twitter: [![Twitter][1.2]][1]
+- 📎 LinkedIn: [![LinkedIn][2.2]][2]
+
+### My Resume
+- 📄 View my [resume here](https://github.com/immcsorley/Resume/blob/main/IsaacMcSorley.pdf.pdf)
 
 <!-- Icons -->
 
