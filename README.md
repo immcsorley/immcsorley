@@ -1,61 +1,129 @@
 ![](https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-16.gif)
 
+# Hi 👋 I'm Isaac McSorley
 
-## Hi 👋 I'm Isaac McSorley
+📍 Tampa, Florida  
+📊 Data Analyst | Payments & Fintech Analytics  
+🚀 Passionate about building data pipelines, dashboards, and analytics solutions that drive business decisions.
 
-- 🌍 I'm from Southeast Iowa and currently live in Iowa City, IA
-- 🎓 I'm pursuing a Master of Business Analytics degree at the University of Iowa
-- 🚀 My interests include analytics, tech, machine learning, and data science! I also love hunting, golfing, and anything outdoors!
+I’m a **Data Analyst with 3+ years of experience in financial services and fintech**, specializing in automated data pipelines, business intelligence dashboards, and turning complex datasets into actionable insights. My work has helped uncover **$180K+ in annualized savings** through data analysis and process automation.
 
-### Work Experience
-- 📊 **HNI Corporation** - Product Analytics Team
-- 💼 **JP Morgan Chase** - Product Finance Team
-- 🏫 **University of Iowa College of Nursing** - Student Intern (Designing and implementing a new database)
-- 🚀 **Spartan Forge** - Researcher (AI-based mapping software app for deer hunters)
+Outside of work, I enjoy **hunting, fishing, golfing, and building side projects around analytics and outdoor tech.**
 
-### Check Out My Projects
-- Visit my repositories [here](https://github.com/immcsorley?tab=repositories) or view them below.
+---
 
-### Technologies and Tools
-![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![Excel](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![PowerBI](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![SalesForce](https://img.shields.io/badge/Tools-SalesForce-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![Tableau](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+# 💼 Work Experience
 
-### Connect with Me
-- 📫 Email: isaac-mcsorley@uiowa.edu
-- 🐦 Twitter: [![Twitter][1.2]][1]
-- 📎 LinkedIn: [![LinkedIn][2.2]][2]
+### **JPMorgan Chase**
+**Omnichannel Payments Support Analytics Analyst**  
+*Dec 2025 – Present*
 
-### My Resume
-- 📄 View my [resume here](https://github.com/immcsorley/Resume/blob/main/IsaacMcSorley.pdf.pdf)
+- Built Tableau dashboards integrating operational data to track KPIs including case volume, SLAs, escalations, and aging trends  
+- Developed enterprise client adoption analytics dashboards identifying regional growth opportunities  
+- Optimized high-volume reporting pipelines to improve dashboard performance across millions of transactions  
 
-<!-- Icons -->
+**Omnichannel Payments Strategy & Performance Analyst**  
+*Apr 2025 – Nov 2025*
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+- Engineered automated data pipelines in **Snowflake and Alteryx** for operational and billing data  
+- Automated billing reconciliation using **Python and SQL**, uncovering **$180K in annual savings**  
+- Built Tableau dashboards tracking device returns, replacements, and global usage patterns  
+- Presented insights to leadership enabling data-driven operational decisions  
 
-<!-- Links to your social media accounts -->
+**Merchant Services Platform Onboarding Analyst**  
+*Jul 2024 – Mar 2025*
 
-[1]: https://twitter.com/isaacmcsorley
-[2]: https://www.linkedin.com/in/isaac-mcsorley-64640a186/
-<br/>
-## Latest Projects
-- [Microsoft Access Database I built for the University of Iowa College of Nursing](https://github.com/immcsorley/DatabaseProject)
-- [Do Elon Musk's tweets affect Tesla's stock price? ***R Programming Language / ggplot Project***](https://github.com/immcsorley/ElonProject)
-- [Data Mining Churn Rate Project. ***Data Mining / Machine Learning Project***](https://github.com/immcsorley/ChurnRateProject)
-- [Finding the most optimal flight out of Chicago O Hare Airport. ***SQL Project***](https://github.com/immcsorley/ChicagoO-Hare)
-- [Data Science Salaries Analysis and Infographic Using ***Tableau***](https://github.com/immcsorley/DataScienceSalaries)
+- Built reporting dashboards and validation workflows for a new onboarding platform  
+- Led cross-system data mapping across **Snowflake, JIRA, and Excel**  
+- Improved data quality and compliance reporting for onboarding analytics  
 
-![](https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/200.gif) ![](https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.gif) ![](https://media1.giphy.com/media/IwAZ6dvvvaTtdI8SD5/200.gif)
+**Commercial Banking Product Finance Summer Analyst**  
+*Jun 2023 – Aug 2023*
 
+- Built an **Alteryx + Tableau ETL reporting workflow** for pricing analytics  
+- Reduced manual reporting by **3–4 hours monthly**
 
+---
 
+### **Elevated Impact Solutions**
+**Founder | Web & CRM Solutions Consultant**  
+*Jan 2024 – Present*
 
-<!---
-immcsorley/immcsorley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Build websites and CRM automation systems for **10+ small businesses**
+- Develop **SEO-driven websites and analytics strategies**
+- Automate lead pipelines and marketing workflows for business growth
+
+---
+
+### **University of Iowa – Tippie College of Business**
+**Graduate Teaching Assistant – Data Mining**
+
+- Taught **200+ students** machine learning and data mining concepts  
+- Built Python automation scripts to reduce grading time by **50%**
+
+---
+
+### **Spartan Forge – AI Mapping App**
+**Machine Learning Research Intern**
+
+- Built Python data layers to improve predictive mapping models used by thousands of hunters
+
+---
+
+# 🛠 Technologies & Tools
+
+### Languages
+![SQL](https://img.shields.io/badge/SQL-Data-blue?style=flat&logo=postgresql)
+![Python](https://img.shields.io/badge/Python-Analytics-yellow?style=flat&logo=python)
+
+### Data Platforms
+![Snowflake](https://img.shields.io/badge/Snowflake-Data%20Warehouse-blue?style=flat&logo=snowflake)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws)
+![Alteryx](https://img.shields.io/badge/Alteryx-ETL-blue?style=flat)
+
+### Analytics & BI
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?style=flat&logo=tableau)
+![Power BI](https://img.shields.io/badge/PowerBI-Visualization-yellow?style=flat&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-Analytics-green?style=flat&logo=microsoft-excel)
+
+---
+
+# 📊 Featured Projects
+
+### Data Science Salaries Dashboard
+Tableau dashboard analyzing salary trends across data science roles.
+
+### Machine Learning Churn Prediction
+Predictive modeling project analyzing customer churn patterns using machine learning.
+
+### Elon Musk Tweet Impact Analysis
+R-based statistical analysis exploring correlations between Elon Musk tweets and Tesla stock performance.
+
+### Flight Optimization SQL Project
+SQL analysis to determine optimal flight options from Chicago O'Hare.
+
+---
+
+# 🎓 Education
+
+**University of Iowa — Tippie College of Business**
+
+Master of Science, Business Analytics  
+Bachelor of Business Administration, Business Analytics & Information Systems  
+
+🏆 Dean's List  
+🏆 1st Place – USITCC National Case Competition  
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: isaacmcsorley@gmail.com  
+🌐 Website: https://immcsorley.github.io  
+💼 LinkedIn: https://linkedin.com/in/immcsorley  
+
+---
+
+![](https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/200.gif)
+![](https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.gif)
+![](https://media1.giphy.com/media/IwAZ6dvvvaTtdI8SD5/200.gif)
