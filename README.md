@@ -4,69 +4,32 @@
 
 📍 Tampa, Florida  
 📊 Data Analyst | Payments & Fintech Analytics  
-🚀 Passionate about building data pipelines, dashboards, and analytics solutions that drive business decisions.
 
-I’m a **Data Analyst with 3+ years of experience in financial services and fintech**, specializing in automated data pipelines, business intelligence dashboards, and turning complex datasets into actionable insights. My work has helped uncover **$180K+ in annualized savings** through data analysis and process automation.
+I’m a data analyst specializing in **data pipelines, analytics engineering, and BI dashboards**. I enjoy building scalable data workflows and turning complex datasets into actionable insights.
 
-Outside of work, I enjoy **hunting, fishing, golfing, and building side projects around analytics and outdoor tech.**
+Outside of work I enjoy **hunting, fishing, golf, and building analytics side projects.**
 
 ---
 
 # 💼 Work Experience
 
-### **JPMorgan Chase**
-**Omnichannel Payments Support Analytics Analyst**  
-*Dec 2025 – Present*
+### JPMorgan Chase
+- Omnichannel Payments Support Analytics Analyst  
+- Omnichannel Payments Strategy & Performance Analyst  
+- Merchant Services Platform Onboarding Analyst  
+- Commercial Banking Product Finance Summer Analyst  
 
-- Built Tableau dashboards integrating operational data to track KPIs including case volume, SLAs, escalations, and aging trends  
-- Developed enterprise client adoption analytics dashboards identifying regional growth opportunities  
-- Optimized high-volume reporting pipelines to improve dashboard performance across millions of transactions  
+### Elevated Impact Solutions
+- Founder | Web & CRM Solutions Consultant  
 
-**Omnichannel Payments Strategy & Performance Analyst**  
-*Apr 2025 – Nov 2025*
+### University of Iowa – Tippie College of Business
+- Graduate Teaching Assistant – Data Mining  
 
-- Engineered automated data pipelines in **Snowflake and Alteryx** for operational and billing data  
-- Automated billing reconciliation using **Python and SQL**, uncovering **$180K in annual savings**  
-- Built Tableau dashboards tracking device returns, replacements, and global usage patterns  
-- Presented insights to leadership enabling data-driven operational decisions  
+### Spartan Forge
+- Machine Learning Research Intern  
 
-**Merchant Services Platform Onboarding Analyst**  
-*Jul 2024 – Mar 2025*
-
-- Built reporting dashboards and validation workflows for a new onboarding platform  
-- Led cross-system data mapping across **Snowflake, JIRA, and Excel**  
-- Improved data quality and compliance reporting for onboarding analytics  
-
-**Commercial Banking Product Finance Summer Analyst**  
-*Jun 2023 – Aug 2023*
-
-- Built an **Alteryx + Tableau ETL reporting workflow** for pricing analytics  
-- Reduced manual reporting by **3–4 hours monthly**
-
----
-
-### **Elevated Impact Solutions**
-**Founder | Web & CRM Solutions Consultant**  
-*Jan 2024 – Present*
-
-- Build websites and CRM automation systems for **10+ small businesses**
-- Develop **SEO-driven websites and analytics strategies**
-- Automate lead pipelines and marketing workflows for business growth
-
----
-
-### **University of Iowa – Tippie College of Business**
-**Graduate Teaching Assistant – Data Mining**
-
-- Taught **200+ students** machine learning and data mining concepts  
-- Built Python automation scripts to reduce grading time by **50%**
-
----
-
-### **Spartan Forge – AI Mapping App**
-**Machine Learning Research Intern**
-
-- Built Python data layers to improve predictive mapping models used by thousands of hunters
+### University of Iowa College of Nursing
+- Database Developer  
 
 ---
 
@@ -83,44 +46,31 @@ Outside of work, I enjoy **hunting, fishing, golfing, and building side projects
 
 ### Analytics & BI
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?style=flat&logo=tableau)
-![Power BI](https://img.shields.io/badge/PowerBI-Visualization-yellow?style=flat&logo=powerbi)
+![PowerBI](https://img.shields.io/badge/PowerBI-Visualization-yellow?style=flat&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-Analytics-green?style=flat&logo=microsoft-excel)
-
----
-
-# 📊 Featured Projects
-
-### Data Science Salaries Dashboard
-Tableau dashboard analyzing salary trends across data science roles.
-
-### Machine Learning Churn Prediction
-Predictive modeling project analyzing customer churn patterns using machine learning.
-
-### Elon Musk Tweet Impact Analysis
-R-based statistical analysis exploring correlations between Elon Musk tweets and Tesla stock performance.
-
-### Flight Optimization SQL Project
-SQL analysis to determine optimal flight options from Chicago O'Hare.
 
 ---
 
 # 🎓 Education
 
-**University of Iowa — Tippie College of Business**
+**University of Iowa – Tippie College of Business**
 
-Master of Science, Business Analytics  
-Bachelor of Business Administration, Business Analytics & Information Systems  
+Master of Science – Business Analytics  
+Bachelor of Business Administration – Business Analytics & Information Systems  
 
-🏆 Dean's List  
-🏆 1st Place – USITCC National Case Competition  
+---
+
+# 📊 Projects
+Check out my repositories here:  
+👉 https://github.com/immcsorley?tab=repositories
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email: isaacmcsorley@gmail.com  
-🌐 Website: https://immcsorley.github.io  
-💼 LinkedIn: https://linkedin.com/in/immcsorley  
+📧 isaacmcsorley@gmail.com  
+🌐 https://immcsorley.github.io  
+💼 https://linkedin.com/in/immcsorley
 
 ---
 
